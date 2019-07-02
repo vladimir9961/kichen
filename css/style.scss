@@ -1,0 +1,135 @@
+  body {
+    font-family: Helvetica Neue, Helvetica, Arial, ;
+    color:#000;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-light {
+      
+      background-color:transparent !important; 
+      border-bottom: 1px solid lightgray;
+      
+      .navbar-nav .nav-item a{
+          color:black;
+          font-size: 12px;
+          font-weight: 700;
+          padding-left: 15px;
+      }
+      
+  }
+  .navbar-light .nav-item a:hover{
+    border-bottom: 1px solid red;
+    animation: myanimation  ease-in-out, right 250ms ease-in-out;
+    
+}
+.loginbtn{
+  background-color:#c6c9ce;
+  a{
+    text-decoration: none;
+    color:#000;
+  }
+}
+.singupbtn{
+  a{
+    text-decoration: none;
+    color:white;
+  }
+ 
+}
+#main-logo{
+    font-family: 'Great Vibes', cursive;
+    margin-top:75px;
+}
+.slick-slider{
+  padding-top:155px;
+  cursor: pointer;
+  margin-bottom: 100px;
+}
+.card{
+  margin-bottom: 20px;
+}
+.card-img-overlay{
+			border:2px solid #ffff      
+}
+
+  .card-body{
+    .badge a{
+        text-decoration: none;
+        color:white;
+       }
+}
+
+.sidebox-widget{
+  margin-left: 50px;
+   a {color: black;
+     }
+}
+.about-us{
+  margin-left:30px;
+}
+.footer{
+  position: relative;
+  height: 100px;
+  bottom: 0;
+  padding-top: 55rem;
+  
+}
+.contact-form{
+ margin-top:2.4rem;
+}
+.myform{
+a{
+  text-decoration:none !important;
+  }
+}
+   .myform{
+position: relative;
+display: -ms-flexbox;
+display: flex;
+padding: 1rem;
+-ms-flex-direction: column;
+flex-direction: column;
+width: 100%;
+pointer-events: auto;
+background-color: #fff;
+background-clip: padding-box;
+border: 1px solid rgba(0,0,0,.2);
+border-radius: 1.1rem;
+outline: 0;
+max-width: 500px;
+}
+  .tx-tfm{
+  text-transform:uppercase;
+  }
+  .mybtn{
+  border-radius:50px;
+  }
+ 
+  .login-or {
+  position: relative;
+  color: #aaa;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
+  .span-or {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: -2px;
+  margin-left: -25px;
+  background-color: #fff;
+  width: 50px;
+  text-align: center;
+  }
+   form .error {
+  color: #ff0000;
+  }
+.myform{
+  margin-top: 1rem;
+}
+.koska {
+  background-color:;
+  width:100%;
+}
